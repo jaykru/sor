@@ -1,0 +1,7 @@
+[package]
+name = "sor"
+version = "0.1.0"
+authors = ["Jay Kruer <j@dank.systems>"]
+edition = "2018"
+
+[dependencies]
